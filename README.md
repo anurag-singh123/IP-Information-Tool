@@ -63,7 +63,7 @@ This tool is designed to make it easier for users to quickly retrieve and displa
    - You can click the **"Clear"** button to reset both the input field and the displayed results.
 
 ## Screenshots
-![IP Info Tool GUI Screenshot]
+**IP Info Tool GUI Screenshot**
 ![Screenshot 2024-10-19 180319](https://github.com/user-attachments/assets/45aef57b-77ec-48ea-8297-ff09dfda7e1c)
 
 
@@ -80,4 +80,4 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](license) file for details.
