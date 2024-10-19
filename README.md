@@ -68,7 +68,7 @@ This tool is designed to make it easier for users to quickly retrieve and displa
 
 
 ## Customization
-- **Change the API**: By default, this tool uses the `ipinfo.io` API. If you want to use a different API, update the `get_ip_info` function in `ip_info_tool_gui.py` with the relevant API URL and data parsing logic.
+- **Change the API**: By default, this tool uses the `ipinfo.io` API. If you want to use a different API, update the `get_ip_info` function in `IPInformationTool.py` with the relevant API URL and data parsing logic.
 - **Styling**: The tool’s appearance can be customized by tweaking the `tkinter` styles (colors, fonts, etc.) within the script.
 
 ## Contributing
