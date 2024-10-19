@@ -52,7 +52,7 @@ This tool is designed to make it easier for users to quickly retrieve and displa
 
 1. **Run the Application**:
    ```bash
-   python ip_info_tool_gui.py
+   python IPInformationTool.py
    ```
 
 2. **Enter an IP Address**:
